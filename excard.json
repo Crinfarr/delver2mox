@@ -1,0 +1,125 @@
+{
+    "object": "card",
+    "id": "d0c21a35-4b70-4de4-93ff-c0ccabdc39e0",
+    "oracle_id": "02bff648-fbad-4d61-ab09-93993a5fda58",
+    "multiverse_ids": [
+        398611
+    ],
+    "mtgo_id": 57798,
+    "mtgo_foil_id": 57799,
+    "tcgplayer_id": 100042,
+    "cardmarket_id": 283397,
+    "name": "Hixus, Prison Warden",
+    "lang": "en",
+    "released_at": "2015-07-17",
+    "uri": "https://api.scryfall.com/cards/d0c21a35-4b70-4de4-93ff-c0ccabdc39e0",
+    "scryfall_uri": "https://scryfall.com/card/ori/19/hixus-prison-warden?utm_source=api",
+    "layout": "normal",
+    "highres_image": true,
+    "image_status": "highres_scan",
+    "image_uris": {
+        "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/0/d0c21a35-4b70-4de4-93ff-c0ccabdc39e0.jpg?1562043057",
+        "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/0/d0c21a35-4b70-4de4-93ff-c0ccabdc39e0.jpg?1562043057",
+        "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/0/d0c21a35-4b70-4de4-93ff-c0ccabdc39e0.jpg?1562043057",
+        "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/0/d0c21a35-4b70-4de4-93ff-c0ccabdc39e0.png?1562043057",
+        "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/0/d0c21a35-4b70-4de4-93ff-c0ccabdc39e0.jpg?1562043057",
+        "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0c21a35-4b70-4de4-93ff-c0ccabdc39e0.jpg?1562043057"
+    },
+    "mana_cost": "{3}{W}{W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Soldier",
+    "oracle_text": "Flash (You may cast this spell any time you could cast an instant.)\nWhenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield. (That creature returns under its owner's control.)",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+        "W"
+    ],
+    "color_identity": [
+        "W"
+    ],
+    "keywords": [
+        "Flash"
+    ],
+    "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "legal",
+        "explorer": "not_legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "brawl": "not_legal",
+        "historicbrawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal"
+    },
+    "games": [
+        "paper",
+        "mtgo"
+    ],
+    "reserved": false,
+    "foil": true,
+    "nonfoil": true,
+    "finishes": [
+        "nonfoil",
+        "foil"
+    ],
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set_id": "0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62",
+    "set": "ori",
+    "set_name": "Magic Origins",
+    "set_type": "core",
+    "set_uri": "https://api.scryfall.com/sets/0eeb9a9a-20ac-404d-b55f-aeb7a43a7f62",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aori&unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/ori?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/d0c21a35-4b70-4de4-93ff-c0ccabdc39e0/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A02bff648-fbad-4d61-ab09-93993a5fda58&unique=prints",
+    "collector_number": "19",
+    "digital": false,
+    "rarity": "rare",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Chris Rallis",
+    "artist_ids": [
+        "a8e7b854-b15a-421a-b66d-6e68187ae285"
+    ],
+    "illustration_id": "df21336d-7451-43ad-91cf-6396eb5a9321",
+    "border_color": "black",
+    "frame": "2015",
+    "security_stamp": "oval",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "edhrec_rank": 13553,
+    "penny_rank": 7551,
+    "prices": {
+        "usd": "0.10",
+        "usd_foil": "0.29",
+        "usd_etched": null,
+        "eur": "0.13",
+        "eur_foil": "0.12",
+        "tix": "0.01"
+    },
+    "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398611",
+        "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hixus%2C+Prison+Warden&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+        "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hixus%2C+Prison+Warden&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+        "edhrec": "https://edhrec.com/route/?cc=Hixus%2C+Prison+Warden"
+    },
+    "purchase_uris": {
+        "tcgplayer": "https://www.tcgplayer.com/product/100042?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hixus%2C+Prison+Warden&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/57798?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+    }
+}
